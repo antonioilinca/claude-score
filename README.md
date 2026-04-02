@@ -71,7 +71,7 @@ That's it. One command. Takes less than a second.
 Scored an F? Two commands to fix it:
 
 ```bash
-npx claude-gen       # auto-generate CLAUDE.md from your codebase
+npx claudemd-gen     # auto-generate CLAUDE.md from your codebase
 npx claude-enforce init  # convert rules into deterministic hooks
 ```
 
