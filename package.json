@@ -6,14 +6,36 @@
   "bin": {
     "claude-score": "src/index.js"
   },
+  "files": [
+    "src/",
+    "README.md"
+  ],
   "keywords": [
     "claude",
     "claude-code",
     "claude-md",
+    "claudemd",
     "linter",
     "score",
-    "developer-tools"
+    "audit",
+    "quality",
+    "developer-tools",
+    "devtools",
+    "cli",
+    "hooks",
+    "ai",
+    "anthropic",
+    "code-quality",
+    "best-practices",
+    "config-checker",
+    "lighthouse"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antonioilinca/claude-score"
+  },
+  "homepage": "https://github.com/antonioilinca/claude-score",
+  "author": "Antonio Ilinca",
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
