@@ -1,0 +1,22 @@
+{
+  "name": "claude-score",
+  "version": "1.0.0",
+  "description": "Lighthouse for your Claude Code setup — score your CLAUDE.md, hooks, and project config",
+  "main": "src/index.js",
+  "bin": {
+    "claude-score": "src/index.js"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "claude-md",
+    "linter",
+    "score",
+    "developer-tools"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^12.1.0"
+  }
+}
